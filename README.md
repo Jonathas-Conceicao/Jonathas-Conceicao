@@ -75,7 +75,7 @@ https://reddit.com/u/Thatox)
 </details>
 
 <details>
-  <summary><b>:gear: GitHub Statistics</b></summary>
+  <summary><b>:gear: GitHub Statistics:</b></summary>
 
 <img width="495x" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathas-Conceicao&hide_border=true&theme=nightowl"/></br>
 
