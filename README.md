@@ -83,3 +83,7 @@ https://reddit.com/u/Thatox)
 
 <img width="495x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Conceicao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&exclude_repo=PAC-MAN-Search,Conjunto-Concorrente-EVS,EVS"/><br>
 </details>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img align="right" src="https://komarev.com/ghpvc/?username=Jonathas-Conceicao&color=blueviolet&style=flat">
+</a>
