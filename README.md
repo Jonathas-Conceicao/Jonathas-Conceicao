@@ -13,7 +13,7 @@ https://reddit.com/u/Thatox)
 
 ### :scroll: About me:
 
-  + :mortar_board: I've studied Computer Science on Federal University of Pelotas (UFPel);
+  + :mortar_board: I've studied Computer Science at Federal University of Pelotas (UFPel);
   + :computer: I am passionate about Computers and Programming in general;
   + :video_game: I love video games and the universe arround it;
   + :writing_hand: I really enjoy reading, writing and sharing experiences;
