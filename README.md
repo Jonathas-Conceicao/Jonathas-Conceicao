@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Jonathas Conceição!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](
-mailto:jadoliveira@inf.ufpel.edu.br)
+mailto:jonathasaoc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/jonathas-conceicao/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](
